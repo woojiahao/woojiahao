@@ -1,18 +1,23 @@
 ### Hi there 👋
 
+I am Woo Jia Hao, a software developer from tiny red dot - Singapore! I use various technologies but my primary focus is in backend systems - managing databases and building APIs. Lately, however, I have been working with front-end technologies like [Vue](https://github.com/woojiahao/productivity) and [Gatsby.js](https://github.com/woojiahao/woojiahao.github.io).
 
-- 🔭 I’m currently working on a guide to Git with a friend and working with a volunteer organisation to improve their site's performance!
-- 🌱 I’m currently learning machine learning, with an emphasis on natural language processing, for an upcoming internship
-- 💬 Ask me about anything!
-- 📫 How to reach me: You can find me on [The Programmer's Hangout](https://discord.gg/programming) as @Chill#4048 though I may not be very active there as I will be enlisting soon. If you wish to reach out, my email is [woojiahao1234@gmail.com](woojiahao1234@gmail.com)
-- 😄 Pronouns: Him/he
-- ⚡ Fun fact: I will be joining the Singapore army soon to serve my national service!
+I am currently waiting to enlist into the Singapore army!
 
-<!--
-**woojiahao/woojiahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current projects 🔭
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+If you see a repository you are interested in, feel free to contribute! 😃
 
--->
+- [productivity](https://github.com/woojiahao/productivity) - documenting my productivity tools
+- [Git Guide](https://github.com/woojiahao/git-guide) - guide to the Git version control system
+- [woojiahao.github.io](https://woojiahao.github.io) - personal site
+- [torrent.go](https://github.io/torrent.go) - BitTorrent implementation with Go
+
+### Currently learning 🌱
+
+- Machine learning with an emphasis on NLP for an upcoming internship!
+- 3D modelling with Blender <!-- Add link to project previews -->
+
+### Contact me 📬
+
+You can find my social media links in my GitHub bio!
