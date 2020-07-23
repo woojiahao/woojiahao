@@ -21,3 +21,7 @@ If you see a repository you are interested in, feel free to contribute! 😃
 ### Contact me 📬
 
 You can find my social media links in my GitHub bio!
+
+### Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=woojiahao&show_icons=true&theme=onedark)](https://woojiahao.github.io/)
