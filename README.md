@@ -2,14 +2,15 @@
 
 I am Woo Jia Hao, a software developer from tiny red dot - Singapore! I use various technologies but my primary focus is in backend systems - managing databases and building APIs. Lately, however, I have been working with front-end technologies like [Vue](https://github.com/woojiahao/productivity) and [Gatsby.js](https://github.com/woojiahao/woojiahao.github.io).
 
-I had just recently started an internship too!
+I am currently interning at DSO National Laboratories! 🔬
 
-I am currently waiting to enlist into the Singapore army!
+I am waiting to enlist into the Singapore army!
 
 ### Current projects 🔭
 
 If you see a repository you are interested in, feel free to contribute! 😃
 
+- [validate-types](https://github.com/woojiahao/validate-types) - Kotlin types with validation built-in during variable assignment using delegate properties
 - [productivity](https://github.com/woojiahao/productivity) - documenting my productivity tools
 - [Git Guide](https://github.com/woojiahao/git-guide) - guide to the Git version control system
 - [woojiahao.github.io](https://woojiahao.github.io) - personal site
@@ -17,7 +18,7 @@ If you see a repository you are interested in, feel free to contribute! 😃
 
 ### Currently learning 🌱
 
-- Machine learning with an emphasis on NLP for an upcoming internship!
+- Machine learning with an emphasis on NLP
 - 3D modelling with Blender <!-- Add link to project previews -->
 
 ### Contact me 📬
