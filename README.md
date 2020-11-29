@@ -1,3 +1,5 @@
+![](background.jpg)
+
 ### Hi there 👋
 
 I am Woo Jia Hao, a software developer from tiny red dot - Singapore! I use various technologies but my primary focus is in backend systems - managing databases and building APIs. Lately, however, I have been working with front-end technologies like [Vue](https://github.com/woojiahao/productivity) and [Gatsby.js](https://github.com/woojiahao/woojiahao.github.io).
