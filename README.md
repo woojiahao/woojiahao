@@ -1,12 +1,12 @@
-![](background.jpg)
-
 ### Hi there 👋
 
-I am Woo Jia Hao, a software developer from tiny red dot - Singapore! I use various technologies but my primary focus is in backend systems - managing databases and building APIs. Lately, however, I have been working with front-end technologies like [Vue](https://github.com/woojiahao/productivity) and [Gatsby.js](https://github.com/woojiahao/woojiahao.github.io).
+I am Jia Hao, a software developer from tiny red dot - Singapore! I use various technologies but my primary focus is in backend systems - managing databases and building APIs. Lately, I have been improving [my personal site](https://woojiahao.github.io) and working with Elixir!
 
-I have interned for DBS Bank Singapore and DSO National Laboratories 🔬 before!
+I have performed natural language processing reseasrch @ DSO National Laboratories, coordinated UAT testing across 90+ teams @ DBS Bank, and pioneered a user-accessibility framework for Android @ MightyAim!
 
-I am currently serving in the Singapore army! 🪖
+I am currently serving in the Singapore army. 🪖
+
+I had also recently started a new blog series - Open-source Deep Dive - where I explore open-source projects to uncover and explain the underlying concepts that make them tick. My first post about Hound was featured on Elixir Digest!
 
 ### Current projects 🔭
 
@@ -19,18 +19,17 @@ If you see a repository you are interested in, feel free to contribute! 😃
 
 ### Currently learning 🌱
 
+- Psychology
+- Sociology
+- Chemistry
+- German
 - Machine learning with an emphasis on NLP
 - 3D modelling with Blender <!-- Add link to project previews -->
 
 ### Currently reading 📚
 
 - Upheaval: How Nations Cope with Crisis and Change
-- The Little Book of Kaizen
 
 ### Contact me 📬
 
 You can find my social media links in my GitHub bio!
-
-### Stats
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=woojiahao&show_icons=true&theme=onedark)](https://woojiahao.github.io/)
