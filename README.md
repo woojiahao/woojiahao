@@ -4,8 +4,6 @@ I am Jia Hao, a software developer from tiny red dot - Singapore! I use various 
 
 I have performed natural language processing reseasrch @ DSO National Laboratories, coordinated UAT testing across 90+ teams @ DBS Bank, and pioneered a user-accessibility framework for Android @ MightyAim!
 
-I am currently serving in the Singapore army. 🪖
-
 I had also recently started a new blog series - Open-source Deep Dive - where I explore open-source projects to uncover and explain the underlying concepts that make them tick. My first post about Hound was featured on Elixir Digest!
 
 ### Current projects 🔭
