@@ -4,12 +4,13 @@ I am Jia Hao, a software developer from tiny red dot - Singapore! I use various 
 
 I have performed natural language processing reseasrch @ DSO National Laboratories, coordinated UAT testing across 90+ teams @ DBS Bank, and pioneered a user-accessibility framework for Android @ MightyAim!
 
-I had also recently started a new blog series - Open-source Deep Dive - where I explore open-source projects to uncover and explain the underlying concepts that make them tick. My first post about Hound was featured on Elixir Digest!
+I had also recently started a new blog series - Open-source Deep Dive - where I explore open-source projects to uncover and explain the underlying concepts that make them tick. My first post about Hound was featured on Elixir Digest! My second post about Broadway is out too!
 
 ### Current projects 🔭
 
 If you see a repository you are interested in, feel free to contribute! 😃
 
+- [kobold](https://github.com/woojiahao/kobold) - URL shortening backend service in Elixir
 - [Go HTTP server](https://github.com/woojiahao/go-http-server) - HTTP server written from scratch in Go
 - [Git Guide](https://github.com/woojiahao/git-guide) - guide to the Git version control system
 - [woojiahao.github.io](https://woojiahao.github.io) - personal site
