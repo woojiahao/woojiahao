@@ -6,7 +6,7 @@ I have performed natural language processing reseasrch @ DSO National Laboratori
 
 I had also recently started a new blog series — Open-source Deep Dive — where I explore open-source projects to uncover and explain the underlying concepts that make them tick. My first post about Hound was featured on Elixir Digest! My second post about Broadway is out too!
 
-### Writings
+### Writings 📝
 
 Here are some of my notable writings!
 
@@ -21,7 +21,7 @@ Here are some of my notable writings!
 
 If you see a repository you are interested in, feel free to contribute! 😃
 
-- [apollo](https://github.com/woojiahao/apollo) — RSS feed aggregator built with Electron, React, and Tailwind
+- [Apollo](https://github.com/woojiahao/apollo) — RSS feed aggregator built with Electron, React, and Tailwind
 - [kobold](https://github.com/woojiahao/kobold) — URL shortening backend service in Elixir
 - [Go HTTP server](https://github.com/woojiahao/go-http-server) — HTTP server written from scratch in Go
 - [woojiahao.github.io](https://woojiahao.github.io) — personal site
