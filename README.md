@@ -21,6 +21,7 @@ Here are some of my notable writings!
 
 If you see a repository you are interested in, feel free to contribute! 😃
 
+- [life](https://github.com/woojiahao/life) — Conway's Game of Life visualizer tool built with Electron and Scenic!
 - [Apollo](https://github.com/woojiahao/apollo) — RSS feed aggregator built with Electron, React, and Tailwind
 - [kobold](https://github.com/woojiahao/kobold) — URL shortening backend service in Elixir
 - [Go HTTP server](https://github.com/woojiahao/go-http-server) — HTTP server written from scratch in Go
