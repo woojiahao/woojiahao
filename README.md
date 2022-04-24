@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jia Hao, a software developer from tiny red dot — Singapore! I use various technologies but my primary focus is in backend systems — managing databases and building APIs. Lately, I have been working on [Advent of Code 2021](https://adventofcode.com/) with [Elixir](https://github.com/woojiahao/advent-of-code-2021) and building [Apollo](https://github.com/woojiahao/advent-of-code-2021) — an RSS aggregator made with Electron, React and Tailwind!
+I am Jia Hao, a software developer from tiny red dot — Singapore! I am entering NUS SoC to study Computer Science this year! I use various technologies but my primary focus is in backend systems — managing databases and building APIs. Lately, I have been working on [Advent of Code 2021](https://adventofcode.com/) with [Elixir](https://github.com/woojiahao/advent-of-code-2021) and building [Apollo](https://github.com/woojiahao/advent-of-code-2021) — an RSS aggregator made with Electron, React and Tailwind!
 
 I have performed natural language processing reseasrch @ DSO National Laboratories, coordinated UAT testing across 90+ teams @ DBS Bank, and pioneered a user-accessibility framework for Android @ MightyAim!
 
