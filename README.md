@@ -6,7 +6,7 @@ My most recent projects include [chris](https://github.com/woojiahao/chris), a P
 
 ### Experiences 💼
 
-I have performed natural language processing reseasrch @ DSO National Laboratories, coordinated UAT testing across 90+ teams @ DBS Bank, and pioneered a user-accessibility framework for Android @ MightyAim!
+I have performed natural language processing research @ DSO National Laboratories, coordinated UAT testing across 90+ teams @ DBS Bank, and pioneered a user-accessibility framework for Android @ MightyAim!
 
 Presently, I am a part of the Google Developer Student Club @ NUS, building software for social good! I also write for BetterStack Community as a guest author, developing approachable learning material for various topics!
 
