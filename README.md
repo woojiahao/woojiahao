@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Jia Hao, a software developer from tiny red dot — Singapore! I am studying Computer Science at the National University of Singapore! I use various technologies but my primary focus is in backend systems — managing databases and building APIs. 
+I am a software engineer from Singapore. I am also an undergraduate studying Computer Science at the National University of Singapore (NUS).
 
-My most recent projects include [chris](https://github.com/woojiahao/chris), a Pratt parser implementation for mathematical equations built with Golang and [life](https://github.com/woojiahao/life), a Conway's Game of Life visualizer built with Elixir! 
+I believe in making technology accessible to others and creating software that improves the lives of others. I primary work along two fronts - technical writing and software engineering. As a writer, my goal is to make learning about new technologies and concepts easy for readers. As a software engineer, I am to build software that benefits others.
 
 ### Experiences 💼
 
@@ -24,7 +24,7 @@ Check out some of my notable writings:
 - [Git Guide](https://learngit.woojiahao.com) — learn Git in a fun and practical manner
 - [KotlinToDo](https://woojiahao.com/KotlinToDo) — learn Android development with Kotlin
 
-You can check out my other works on [my personal blog.](https://woojiahao.com/blog)
+You can check out my other works on [my personal blog.](https://blog.woojiahao.com)
 
 ### Projects 🔭
 
@@ -40,19 +40,16 @@ If you see a repository you are interested in, feel free to contribute! 😃
 - [woojiahao.github.io](https://woojiahao.github.io) — personal site
 - [torrent.go](https://github.com/woojiahao/torrent.go) — BitTorrent implementation with Go
 
-You can check out my other projects on [my projects page.](https://woojiahao.com/projects)
+You can check out my other projects on [my projects page.](https://woojiahao.com/#projects)
 
 ### Currently learning 🌱
 
-- Linear algebra
-- Calculus
-- Discrete mathematics
-- Machine learning with an emphasis on NLP
-- 3D modelling with Blender <!-- Add link to project previews -->
+- Swift & SwiftUI
 
 ### Currently reading 📚
 
-- No Longer Human
+- Cracking the Coding Interview
+- The Algorithm Design Manual
 
 ### Contact me 📬
 
