@@ -37,12 +37,3 @@ I am a software engineer from Singapore and a Computer Science undergraduate at 
     </td>
   </tr>
 </table>
-
-### Currently learning 🌱
-
-- Swift & SwiftUI
-
-### Currently reading 📚
-
-- Cracking the Coding Interview
-- The Algorithm Design Manual
