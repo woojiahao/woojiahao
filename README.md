@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a software engineer and a Computer Science undergraduate at the National University of Singapore (NUS). Reach out to me via my email: me@woojiahao.com
+I am a software engineer and a Computer Science undergraduate at the National University of Singapore (NUS). 
+
+Reach out to me via me@woojiahao.com
 
 ### Experiences 💼
 
