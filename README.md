@@ -1,4 +1,4 @@
-### Hi there 👋 I am Jia Hao!
+### Hi there 👋 I am Jiahao!
 
 I am a software engineer and a Computer Science undergraduate at the National University of Singapore (NUS). 
 
