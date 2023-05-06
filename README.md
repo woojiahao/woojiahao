@@ -6,10 +6,11 @@ Reach out to me via me@woojiahao.com
 
 ### Experiences 💼
 
-1. Software Engineer (Backend) — NUS Google Developer Student Club
-2. Software/NLP Research Engineer — DSO National Laboratories
-3. Software Engineer — DBS Bank
-4. Software Engineer (Android) — MightyAim
+1. Software Engineer Intern (Full-Stack) — Betafi
+2. Software Engineer (Backend) — NUS Google Developer Student Club
+3. Software/NLP Research Engineer Intern — DSO National Laboratories
+4. Software Engineer Intern — DBS Bank
+5. Software Engineer (Android) — MightyAim
 
 <table>
   <tr>
