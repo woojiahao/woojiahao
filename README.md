@@ -4,14 +4,6 @@ I am a software engineer and a Computer Science undergraduate at the National Un
 
 Reach out to me via me@woojiahao.com
 
-### Experiences 💼
-
-1. Software Engineer Intern (Full-Stack) — Betafi
-2. Software Engineer (Backend) — NUS Google Developer Student Club
-3. Software/NLP Research Engineer Intern — DSO National Laboratories
-4. Software Engineer Intern — DBS Bank
-5. Software Engineer (Android) — MightyAim
-
 <table>
   <tr>
     <th><a href="https://blog.woojiahao.com">Writings 📝</a></th>
