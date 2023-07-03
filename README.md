@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Jiahao!
 
-I am a software engineer and a Computer Science undergraduate at the National University of Singapore (NUS). 
+Software engineer, technical author, computer science undergraduate, and all-around tech nerd!
 
 Reach out to me via me@woojiahao.com
 
