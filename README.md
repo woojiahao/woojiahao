@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Jiahao!
 
-Software engineer, technical author, computer science undergraduate, and all-around tech nerd!
+SWE @ Betafi, Coreteam @ NUS Hackers, SWE @ NUS GDSC, Technical Author @ BetterStack Community
 
 Reach out to me via me@woojiahao.com
