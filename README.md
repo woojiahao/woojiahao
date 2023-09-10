@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Jiahao!
 
-SWE @ Betafi, Coreteam @ NUS Hackers, SWE @ NUS GDSC, Technical Author @ BetterStack Community
+Coreteam @ NUS Hackers
+Ex-SWE @ Betafi, NUS GDSC, DSO National Laboratories, DBS Bank, MightyAim
+Technical Writer @ BetterStack Community
 
 Reach out to me via me@woojiahao.com
