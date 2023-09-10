@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Jiahao!
 
-Coreteam @ NUS Hackers
+Coreteam @ [NUS Hackers]
 
-Ex-SWE @ Betafi, NUS GDSC, DSO National Laboratories, DBS Bank, MightyAim
+Ex-SWE @ [Betafi, NUS GDSC, DSO National Laboratories, DBS Bank, MightyAim]
 
-Technical Writer @ BetterStack Community
+Technical Writer @ [BetterStack Community]
 
-I'm open to Summer 2024 internships! Contact me at me@woojiahao.com
+I'm open to Summer 2024 internships! Contact me at me [at] woojiahao [dot] com
