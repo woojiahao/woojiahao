@@ -1,9 +1,5 @@
 ### Hi there 👋 I am Jiahao!
 
-Coreteam @ [NUS Hackers]
-
-Ex-SWE @ [Betafi, NUS GDSC, DSO National Laboratories, DBS Bank, MightyAim]
-
-Technical Writer @ [BetterStack Community, AppSignal]
+Elixir enthusiast, Coreteam @ NUS Hackers, Ex-SWE @ Betafi, Technical Writer @ BetterStack Community
 
 Contact me at me [at] woojiahao [dot] com
