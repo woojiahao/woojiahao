@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Jiahao!
 
-Elixir enthusiast, Coreteam @ NUS Hackers, Ex-SWE @ Betafi, Technical Writer @ BetterStack Community
+I love to build software, talk about building software, write about building software, and document about building software
 
 Check out all my work at [woojiahao.com](https://woojiahao.com)
 
-Contact me at me [at] woojiahao [dot] com
+Contact me at <woojiahao1234@gmail.com>
