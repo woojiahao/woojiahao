@@ -2,7 +2,7 @@
 
  I am a software engineer, Elixir enthusiast, technical author, and all around tech nerd! I love building projects, writing about building projects, and talking about building projects. I open-source most of my projects on GitHub and my knowledge through my blog.
 
-I am currently a Site Reliability Engineer Intern at Citadel and working on improving my comprehensive Technical Interview Study Guide for internship hunting.
+I was a Site Reliability Engineer Intern at Citadel and am currently at Palantir as a Software Engineer intern.
 
 I also like to cook 🍳, boulder 🧗‍♂️, run at night 🌃, and speedrun Hades 🕹️. 
 
