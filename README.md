@@ -6,6 +6,7 @@ I have had the opportunity to dip my toes into many different fields and roles t
 
 - [NOW] Fullstack Engineer Intern @ Palantir
 - Site Reliability Engineer Intern @ Citadel
+- Teaching Assistant @ NUS CS2103/T (Software Engineering)
 - Fullstack Engineer Intern @ Betafi
 - Backend Engineer @ NUS Google Developer Student Club 
 - NLP Research Intern @ DSO National Laboratories
