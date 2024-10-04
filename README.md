@@ -4,12 +4,12 @@ I am a software engineer, Elixir enthusiast, technical author, and all around te
 
 I have had the opportunity to dip my toes into many different fields and roles throughout the years:
 
-- Software Engineer Intern @ Palantir
+- [NOW] Fullstack Engineer Intern @ Palantir
 - Site Reliability Engineer Intern @ Citadel
-- Software Engineer Intern @ Betafi
+- Fullstack Engineer Intern @ Betafi
+- Backend Engineer @ NUS Google Developer Student Club 
 - NLP Research Intern @ DSO National Laboratories
-- Software Engineer Intern @ DBS Bank
-- Software Engineer @ MightyAim
+- Android Developer @ MightyAim
 
 I also like to cook 🍳, boulder 🧗‍♂️, run at night 🌃, and speedrun Hades 🕹️. 
 
