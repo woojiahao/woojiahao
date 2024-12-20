@@ -4,6 +4,8 @@ I am a software engineer, Elixir enthusiast, technical author, and all around te
 
 I have had the opportunity to dip my toes into many different fields and roles throughout the years:
 
+- [INCOMING] Software Engineer Intern @ Stripe
+- Returning Teaching Assistant @ NUS CS2103/T (Software Engineering)
 - Fullstack Engineer Intern @ Palantir
 - Site Reliability Engineer Intern @ Citadel
 - Teaching Assistant @ NUS CS2103/T (Software Engineering)
