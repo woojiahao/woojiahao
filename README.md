@@ -1,9 +1,5 @@
-### Hi there 👋 I am Jiahao!
+### I am Jiahao
 
-I am a computer science student, software engineer, Elixir enthusiast, technical author, and all-around tech nerd! I open-source my projects on <a href="https://github.com/woojiahao">GitHub</a> and my knowledge on my <a href="https://blog.woojiahao.com">blog</a>. 
+I <a href="https://blog.woojiahao.com">write</a> and I <a href="https://github.com/woojiahao">build</a>.
 
-Right now, I'm working to develop <a href="https://git-mastery.github.io/">@git-mastery</a>, a Git education tool to help students pick up Git through fun and interactive puzzles with consistent feedback!
-
-Check out my blog at [blog.woojiahao.com](https://blog.woojiahao.com).
-
-You can contact me at <woojiahao1234@gmail.com>
+I am also contactable at <woojiahao1234@gmail.com>
